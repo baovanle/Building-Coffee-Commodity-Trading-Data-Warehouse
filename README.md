@@ -1,5 +1,5 @@
 # Building-Coffee-Commodity-Trading-Data-Warehouse
-Project name: Build-Predicting-Trading-Program-based-on-Pair-Trading-Approach
+Project name: Building Coffee Commodity Trading Data Warehouse: Decision Making Support Applying Big Data Analysis and Visualization
 Data Science Lab - Room 407 - (National) Korea Maritime & Ocean University
 
 Authors: Ngoc Bao Van Le , Prof. Jun-Ho Huh
